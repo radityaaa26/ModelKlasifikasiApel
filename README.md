@@ -17,5 +17,5 @@ Aplikasi berbasis Streamlit untuk mengklasifikasi apakah gambar adalah apel dan 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME_KAMU/streamlit-klasifikasi-apel.git
+git clone https://github.com/radityaaa26/ModelKlasifikasiApel
 cd streamlit-klasifikasi-apel

@@ -5,7 +5,7 @@ from tensorflow.keras.preprocessing.image import img_to_array
 from PIL import Image
 
 # Load model
-model = tf.keras.models.load_model('model_apel.h5')
+model = tf.keras.models.load_model('model_apel_baru.h5')
 
 st.title("Klasifikasi Apel dan Kematangan")
 
